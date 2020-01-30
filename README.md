@@ -10,10 +10,10 @@
 ## Summary of Files: 
 - [Slide Deck](link)
 - Data Sources
-  - [Atlas of Economic Complexity](https://dataverse.harvard.edu/dataverse/atlas)
+  - [The Growth Lab at Harvard University's Atlas of Economic Complexity](https://dataverse.harvard.edu/dataverse/atlas)
     - International Trade Data
     - Growth Projections and Complexity Rankings 
-  - [Heritage Foundation](https://www.heritage.org/index/download)
+  - [Heritage Foundation's Index of Economic Freedom](https://www.heritage.org/index/download)
   - [World Bank's Business Outlook](https://www.doingbusiness.org/en/rankings)
 - Notebooks
   - [Exploratory Data Analysis](link)
