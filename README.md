@@ -15,9 +15,9 @@
    - Growth Proejections and Complexity Rankings 
   - [Heritage Foundation](https://www.heritage.org/index/download)
   - [World Bank's Business Outlook](https://www.doingbusiness.org/en/rankings)
-- Notebooks 
- - [Exploratory Data Analysis](link)
- - [Technical Notebook](link)
+- Notebooks
+  - [Exploratory Data Analysis](link)
+  - [Technical Notebook](link)
 - Python files 
   - [Imports](link)
   - [Data Cleaning](link)
