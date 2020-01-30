@@ -1,4 +1,4 @@
-# Title: Effects of Economic Growth
+# Effects of Economic Growth
 
 ## Contributors:
 - Aaron Childress (@achildress83) 
