@@ -40,6 +40,7 @@ df['PCT_MTG_INC'] = df.MORTAMT1/ (df.HHINCOME/12)
 df.RACE = df.RACE.map({1:1, 2:2, 3:3, 4:4, 5:4, 6:4, 7:5, 8:5, 9:5})
 df.HISPAN = df.HISPAN.map({0:0, 1:1, 2:2, 3:2, 4:2, 9:3})
 df.MORTGAGE = df.MORTGAGE.map({0:0, 1:1, 3:2, 4:2})
+df.EDUC = df.EDUC.map({0:0, 1:0, 2:0, 3:1, 4:1, 5:1, 6:1, 7:2, 8:2, 9:2, 10:2, 11:3})
 
 def occupation(x):
   if x == 0:
