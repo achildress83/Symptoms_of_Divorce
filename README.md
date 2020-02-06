@@ -1,4 +1,4 @@
-# Effects of Economic Growth
+# Symptoms of Divorce
 
 ## Contributors:
 - Aaron Childress (@achildress83) 
