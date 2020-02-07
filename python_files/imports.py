@@ -14,5 +14,5 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import confusion_matrix, classification_report, roc_curve, roc_auc_score
+from sklearn.metrics import confusion_matrix, classification_report, roc_curve, roc_auc_score, accuracy_score
 os.chdir('/Users/flatironschooldc3/FlatironSchoolRepo/Projects')
